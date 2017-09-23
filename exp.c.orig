@@ -1,0 +1,10 @@
+function a1(){
+}
+<<<<<<< HEAD
+function a2(master){
+=======
+function a2(branch){
+>>>>>>> exp
+}
+function a3(){
+}
