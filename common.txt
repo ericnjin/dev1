@@ -1,6 +1,6 @@
 function a(){
 }
-function a2(){
+function a2(exp){
 }
 function a3(){
 }
