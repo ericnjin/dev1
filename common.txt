@@ -1,6 +1,6 @@
 function a(){
 }
-function a2(master){
+function a2(master,exp){
 }
 function a3(){
 }
